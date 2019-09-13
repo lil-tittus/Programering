@@ -9,6 +9,10 @@ public class V37 {
 		String Förnamn = input.nextLine();
 		System.out.println(Förnamn);
 		
+	
+		System .out.println("Hur gammal är du?");
+		int gammal = input.nextInt();
+		
 		
 		
 	}
